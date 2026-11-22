@@ -3,7 +3,7 @@
 Infinite looping scroll for your website. **Add one line to `<head>`. Done.**
 
 ```html
-<script src="https://cdn.jsdelivr.net/gh/YOUR_USERNAME/infinite-loop@1/infinite-scroll.js" defer></script>
+<script src="https://cdn.jsdelivr.net/gh/dev-af-edu/infinite-loop@1/infinite-scroll.js" defer></script>
 ```
 
 Your page's `<section>` elements (or any `.section`) now loop forever:
